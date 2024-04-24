@@ -29,7 +29,7 @@ print("Average Monthly Sales of Smartphones:", average_sales)
 
 **Output Screenshot:**
 
-![Market Analysis Output](market_analysis_output.png)
+![Market Analysis Output](video_slides/source/vq_ma_3b.Rmd)
 
 **How to Use:**
 1. Ensure Python is installed on your system.
@@ -58,5 +58,3 @@ This project is licensed under the MIT License.
 **Acknowledgements:**
 Special thanks to [skanz] for providing the dataset.
 
-**Note:**
-Replace placeholders such as '[Akash]' and '[akhs3456@gmail.com]' with your own information.
